@@ -1,0 +1,9 @@
+[package]
+name = "game_of_life"
+version = "0.1.0"
+authors = ["jason"]
+build = ".build.sh.txt"
+
+[dependencies]
+tcod = "0.8.0"
+time = "0.1.34"
